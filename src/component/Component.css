@@ -1,0 +1,47 @@
+
+.bg-black {
+background-color: black;
+color: white;
+  }
+  
+  .bg-white {
+   background-color: white;
+   color: #111111;
+  }
+  .motion:hover{
+transform: translatex(90px);
+
+
+  }
+
+ 
+
+.colorprimary{
+  color: #ffc727;
+}
+
+.serviceCard:hover {
+  background-color: #ffc727;
+  color: rgb(7, 7, 7);
+}
+
+.serviceCard{
+  background-color:#111111;
+  color: white;
+  text-align: center;
+  padding: 40px;
+  border-radius: 10px;
+  transition: all 1s ease-in-out;
+}
+.cardlistmotion:hover{
+  transform: translatex(50px) ;
+}
+.btnhoverc{
+color:white;
+}
+.btnhoverc:hover{
+  color:#111111;
+  background-color: transparent;
+
+  
+}
